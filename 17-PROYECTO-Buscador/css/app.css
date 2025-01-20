@@ -69,3 +69,9 @@ form {
 .sitio-web:hover {
     color: white;
 }
+
+table {
+    margin: 0 auto;
+    width: 90%;
+    border-collapse: collapse;
+}
