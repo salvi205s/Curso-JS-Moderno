@@ -87,6 +87,7 @@ function crearHTML() {
 function sincronizarStorage() {
     localStorage.setItem('tweets', JSON.stringify(tweets))
 
+    
 }
 
 function borrarTweet(id) {
